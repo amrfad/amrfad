@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amrfad
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Front-End Website Development
+- 💞️ I’m looking to collaborate on - (maybe later)
+- 📫 How to reach me: wa.me/+62895321454486
