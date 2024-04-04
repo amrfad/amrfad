@@ -1,8 +1,8 @@
-# Repositori Profil Developer
+# Profil Developer
 
 ## Tentang Saya
 
-Halo Pengguna GitHub! Saya Amr Fadhilah Abiyyu Alif Basysyar yang merupakan mahasiswa program studi D4 Teknik Informatika di Politeknik Negeri Bandung. Saya memiliki ketertarikan di bidang **Deep Learning**, sehingga saya saat ini sedang mempelajari penerapan **Convolutional Neural Network** dan **Natural Language Processing** menggunakan framework **TensorFlow**.
+Halo Pengguna GitHub! Saya Amr Fadhilah Abiyyu Alif Basysyar yang merupakan mahasiswa program studi D4 Teknik Informatika di Politeknik Negeri Bandung. Saya memiliki ketertarikan di bidang **Deep Learning**, sehingga saat ini saya sedang mempelajari **Computer Vision**, **Natural Language Processing**, dan **Generative Model**.
 
 ## Kepakaran
 
