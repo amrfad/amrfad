@@ -8,6 +8,7 @@ Halo Pengguna GitHub! Saya Amr Fadhilah Abiyyu Alif Basysyar yang merupakan maha
 
 - **Python**: Berpengalaman dalam bahasa pemrograman Python. Terbiasa dalam menggunakan Python untuk analisis data, machine learning, dan web scraping. Mengetahui cara menggunakan library Python seperti NumPy, Pandas, Matplotlib, dan Beautiful Soup.
 - **Scikit-Learn**: Berpengalaman dalam menggunakan Scikit-Learn untuk klasifikasi, regresi, clustering, dimesionality reduction, model selection, dan preprocessing.
+- **TensorFlow**: Memiliki keahlian menggunakan TensorFlow untuk membangun, melatih, dan menerapkan model machine learning seperti deep neural networks, convolutional neural networks, dan recurrent neural networks.
 
 ## Pendidikan
 
