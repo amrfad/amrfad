@@ -2,23 +2,7 @@
 
 ## Tentang Saya
 
-Halo Pengguna GitHub! Saya Amr Fadhilah Abiyyu Alif Basysyar yang merupakan mahasiswa program studi D4 Teknik Informatika di Politeknik Negeri Bandung. Saya memiliki ketertarikan di bidang **Deep Learning**, sehingga saat ini saya sedang mempelajari **Computer Vision**, **Natural Language Processing**, dan **Generative Model**.
-
-## Kepakaran
-
-- **Python**: Berpengalaman dalam bahasa pemrograman Python. Terbiasa dalam menggunakan Python untuk analisis data, machine learning, dan web scraping. Mengetahui cara menggunakan library Python seperti NumPy, Pandas, Matplotlib, dan Beautiful Soup.
-- **Scikit-Learn**: Berpengalaman dalam menggunakan Scikit-Learn untuk klasifikasi, regresi, clustering, dimesionality reduction, model selection, dan preprocessing.
-- **TensorFlow**: Memiliki keahlian menggunakan TensorFlow untuk membangun, melatih, dan menerapkan model machine learning seperti deep neural networks, convolutional neural networks, dan recurrent neural networks.
-
-## Pendidikan
-
-- SD Plus Nurul Aulia (2011 - 2017)
-- SMP Negeri 1 Cileunyi (2017 - 2020)
-- SMA Negeri 1 Cicalengka (2020 - 2023)
-
-## Proyek dan Kontribusi
-
-Saya pernah membuat proyek game Scrabble berbasis terminal yang merupakan Tugas Besar pada mata kuliah Dasar-Dasar Pemrograman pada saat semester 1. Proyek tersebut bisa diakses pada [repositori ini](https://github.com/k31p/JTK48_Scrabble).
+**Sedang dalam proses rekonstruksi...**
 
 ## Menghubungi Saya
 
