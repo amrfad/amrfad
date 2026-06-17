@@ -1,9 +1,5 @@
 # Hi there! I'm Amr Fadhilah Abiyyu Alif Basysyar 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amrfad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="amrfad views" />
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
